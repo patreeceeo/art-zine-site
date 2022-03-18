@@ -6,6 +6,6 @@ header:
 excerpt: ""
 ---
 
-By [Kayla](https://www.instagram.com/kla.gustflo/)
+A work in progress by [Kayla](https://www.instagram.com/kla.gustflo/)
 
 
