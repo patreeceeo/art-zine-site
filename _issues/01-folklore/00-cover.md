@@ -9,5 +9,6 @@ excerpt: ""
 is_cover: true
 ---
 
-All artwork created at the Flying Pig Bistro Pub on March 16th, 2022.
+All artwork (except this cover) created at the Flying Pig Bistro Pub on March 16th, 2022.
+The cover was originally created as a flyer for the event, by me (Patrick).
 
