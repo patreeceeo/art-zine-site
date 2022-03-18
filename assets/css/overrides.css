@@ -9,6 +9,6 @@
 }
 
 .page__hero .page__hero-image {
-  width: calc(100% - 200px);
+  width: 80%;
   max-width: 8.5in;
 }

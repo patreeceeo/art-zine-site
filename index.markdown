@@ -5,7 +5,7 @@ entries_layout: grid
 title: "issue #1: _Folklore_"
 tagline: is here
 header:
-  overlay_image: assets/images/Jun.png
+  overlay_image: assets/issues/01-folklore/Jun.png
   overlay_filter: 0.5
   actions:
     - label: "Check it out!"
