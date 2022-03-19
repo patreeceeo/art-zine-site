@@ -23,7 +23,7 @@ subtitle: CGZG > Overlord
 name: Concrete Gorilla Zine Gang
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A serialized zine of art made in San Francisco while hanging out and maybe having a drink or two.
+  A serialized zine of art made while hanging out and maybe having a drink or two.
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
