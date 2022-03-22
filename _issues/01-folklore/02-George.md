@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mercury
+title: Mercury, god of email
 header:
   image: assets/issues/01-folklore/George.png
 excerpt: ""
