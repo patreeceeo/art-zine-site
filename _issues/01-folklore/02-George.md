@@ -1,9 +1,9 @@
 ---
 layout: single
-title: untitled
+title: Mercury
 header:
   image: assets/issues/01-folklore/George.png
 excerpt: ""
 ---
 
-By George
+by George
