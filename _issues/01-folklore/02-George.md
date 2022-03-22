@@ -6,4 +6,4 @@ header:
 excerpt: ""
 ---
 
-by George
+by [George](https://www.instagram.com/jolo.goods/)
