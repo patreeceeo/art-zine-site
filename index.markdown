@@ -2,14 +2,14 @@
 author_profile: true
 layout: collection
 entries_layout: grid
-title: "issue #1: _Folklore_"
-tagline: is here
+title: "issue #1.5: _Pickle_"
+tagline: out now!
 header:
-  overlay_image: assets/issues/01-folklore/Jun.png
+  overlay_image: assets/issues/01.5-pickle/sue.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Check it out!"
-      url: "/issues/01-folklore/00-cover.html"
+    - label: "marinate on that"
+      url: "/issues/01.5-pickle/00-cover.html"
 ---
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "All issues" }}</h3>
